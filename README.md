@@ -1,11 +1,3 @@
-Oui, avec ça je peux te faire une **vraie API doc/dev doc** pour ton système.
-Et ton README actuel est beaucoup trop vide par rapport à ce que ton code expose déjà. 
-
-Le plus important : ce que tu appelles “API” ici, ce n’est pas une API web HTTP.
-C’est une **API interne C# s&box** + des **ConCmd serveur** que tes potes pourront utiliser pour brancher leurs propres systèmes dessus.
-
----
-
 # README / API DOC — Wayzix RP System
 
 ## Vue d’ensemble
